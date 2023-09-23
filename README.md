@@ -76,4 +76,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ---
 
-Please customize this README template further to match your specific project's details and requirements. Congratulations to the project team on winning the first place for the problem statement!
